@@ -106,7 +106,7 @@ const scrlRect = () => {
         if (window.scrollY >= 200) {
             header.classList.add("hideNav");
         }
-    }, 4500);
+    }, 6500);
 
     activeState();
     showToTop();
