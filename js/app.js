@@ -101,12 +101,12 @@ const scrlRect = () => {
 
 
 
-    header.classList.remove("hideNav");
+    /*header.classList.remove("hideNav");
     setTimeout(function hideNav() {
         if (window.scrollY >= 200) {
             header.classList.add("hideNav");
         }
-    }, 6500);
+    }, 6500);*/
 
     activeState();
     showToTop();
