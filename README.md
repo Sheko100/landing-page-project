@@ -17,7 +17,7 @@
 	- *added a media query to change the nav links on the smallest devices*
 	
 - **JavaScript**
-	- *populated the naviagtion with links based on how many sections in the document*
+	- *populated the navigation with links based on how many sections in the document*
 	- *added a click event on the nav links*
 	- *click event handler scrolls to the right section linked to the nav link*
 	- *added a scroll event on the document*
